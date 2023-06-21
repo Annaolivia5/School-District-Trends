@@ -1,6 +1,6 @@
 # School-District-Trends
 
-Pandas and Jupyter Notebook were used analyze school district data to find trends relating to standardized test results.
+Pandas and Jupyter Notebook were used to analyze school district data to find trends relating to standardized test results.
 
 
 The following 3 observations can be made based on the data analysis:
